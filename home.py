@@ -16,7 +16,7 @@ st.title('PROFILE👩‍🎓')
 
 
 image = Image.open('me.jpg')
-st.image(image, width=500)
+st.image(image, width=300)
 st.subheader("NAMA : SYARIFAH MUDAIM")
 st.caption("NIM : 0402201082")
 st.markdown('''
