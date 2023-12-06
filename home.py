@@ -18,25 +18,21 @@ st.title('PROFILE👩‍🎓')
 image = Image.open('me.jpg')
 st.image(image, width=300)
 st.subheader("NAMA : SYARIFAH MUDAIM")
-st.caption("NIM : 0402201082")
+st.caption("NIM : 0402201079 ")
 st.markdown('''
-            - Tempat Tanggal Lahir : Brebes 14 juli  2001
-            - Alamat               : Sengon Tanjung  Brebes
-            - Hobi                 : ngutak ngatik
-            - Cita-cita            : big boss :)
-            - Hal yang disukai     : TIDUR
-            - Status               : Sudah punya hehe
+            - Tempat Tanggal Lahir : Brebes, 02 April 2002
+            - Alamat               : Kubangsari - Ketanggungan - Brebes
+            - Hobi                 : Tour and MaTour
+            - Cita-cita            : Masih difikirkan 
+            - Hal yang disukai     : Menyangkal
+            - Status               : Nasib hamba Allah
             """
             ''')
 
 
 st.markdown('## Tentang Saya', unsafe_allow_html=True)
 st.info('''
-        nama saya yuni sulistiawati, biasa dipanggil yuni atau sulis aja..
-        saya dari prodi "TEKNIK INFORMATIKA" dari perkuliahan UNIVERSITAS NAHDLATUL ULAMA CIREBON
-        dulu saya mendengar mahasiswa prodi teknik informatika itu seperti susah dan berat
-        namun bagi saya juga memang begitu,;) tapi seru juga,
-        ''')
+       
 
 st.header("*THANK YOU*")
 
