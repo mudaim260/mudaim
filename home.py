@@ -15,7 +15,7 @@ from PIL import Image
 st.title('PROFILE👩‍🎓')
 
 
-image = Image.open('image02.jpg')
+image = Image.open('me.jpg')
 st.image(image, width=500)
 st.subheader("NAMA : SYARIFAH MUDAIM")
 st.caption("NIM : 0402201082")
