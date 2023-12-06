@@ -30,9 +30,7 @@ st.markdown('''
             ''')
 
 
-st.markdown('## Tentang Saya', unsafe_allow_html=True)
-st.info('''
-       
+
 
 st.header("*THANK YOU*")
 
