@@ -12,7 +12,7 @@ st.sidebar.success("PORTOFOLIO")
 
 from PIL import Image
 
-st.title('PROFILE👩‍🎓')
+st.title('mySelf👩‍🎓')
 
 
 image = Image.open('me.jpg')
